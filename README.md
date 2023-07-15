@@ -34,6 +34,6 @@ This project is licensed under the [MIT License](link-to-license). You can find 
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out to me at your-email@example.com.
+For any questions or inquiries, feel free to reach out to me at omid.root1@gmail.com.
 
 
